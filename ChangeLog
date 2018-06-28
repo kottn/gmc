@@ -1,0 +1,15 @@
+2018-06-28  T. Kotani
+	* バージョン管理をgithubへ移行
+
+2015-12-28  T. Kotani
+
+	* src/chkvol.f90 : 体積の計算式を変更
+
+2015-12-25  T. Kotani
+
+	* src/Makefile : created
+	* src/Makefile ( ver ) : 0.0.0 に設定
+	* src/chkvol.f90 : created
+	* src/datain.f90 : created
+	* src/flopen.f90 : created
+	* src/gmc.f90 : created
